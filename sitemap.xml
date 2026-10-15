@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage - English Primary (Blockpit Crypto Tax Software) -->
+  <url>
+       <loc>https://www.blockpit.top/</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.blockpit.top/de-de.html" />
+       <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.blockpit.top/de-at.html" />
+       <xhtml:link rel="alternate" hreflang="de-CH" href="https://www.blockpit.top/de-ch.html" />
+       <xhtml:link rel="alternate" hreflang="it" href="https://www.blockpit.top/it.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+       <image:image>
+            <image:loc>https://cdn.prod.website-files.com/6a3be9d2fd24f239f9b74e5a/6a8d6fc8eb7180b5da8cbd5a_Blockpit-full-onlight.jpg</image:loc>
+            <image:title>Blockpit - Crypto Tax Software & Portfolio Tracker</image:title>
+            <image:caption>Blockpit Crypto Tax Platform</image:caption>
+       </image:image>
+  </url>
+
+  <!-- German Homepage - Blockpit Steuererklärung Deutschland -->
+  <url>
+       <loc>https://www.blockpit.top/de.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.blockpit.top/de-de.html" />
+       <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.blockpit.top/de-at.html" />
+       <xhtml:link rel="alternate" hreflang="de-CH" href="https://www.blockpit.top/de-ch.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+       <image:image>
+            <image:loc>https://cdn.prod.website-files.com/6a3be9d2fd24f239f9b74e5a/6a8d6fc8eb7180b5da8cbd5a_Blockpit-full-onlight.jpg</image:loc>
+            <image:title>Blockpit - Krypto Steuererklärung Deutschland</image:title>
+            <image:caption>Blockpit Steuer-Software für Deutschland</image:caption>
+       </image:image>
+  </url>
+
+  <!-- Germany Specific - Blockpit Deutschland -->
+  <url>
+       <loc>https://www.blockpit.top/de-de.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="de-DE" href="https://www.blockpit.top/de-de.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+  </url>
+
+  <!-- Austria Specific - Blockpit Österreich -->
+  <url>
+       <loc>https://www.blockpit.top/de-at.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.blockpit.top/de-at.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+  </url>
+
+  <!-- Switzerland Specific - Blockpit Schweiz -->
+  <url>
+       <loc>https://www.blockpit.top/de-ch.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="de-CH" href="https://www.blockpit.top/de-ch.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+  </url>
+
+  <!-- Italian Version - Blockpit Italia -->
+  <url>
+       <loc>https://www.blockpit.top/it.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <xhtml:link rel="alternate" hreflang="en" href="https://www.blockpit.top/" />
+       <xhtml:link rel="alternate" hreflang="de" href="https://www.blockpit.top/de.html" />
+       <xhtml:link rel="alternate" hreflang="it" href="https://www.blockpit.top/it.html" />
+       <xhtml:link rel="alternate" hreflang="x-default" href="https://www.blockpit.top/" />
+  </url>
+
+  <!-- About Blockpit Page -->
+  <url>
+       <loc>https://www.blockpit.top/about-blockpit.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+
+  <!-- Blockpit Crypto Tax Calculator -->
+  <url>
+       <loc>https://www.blockpit.top/crypto-tax-calculator.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+
+  <!-- Blockpit Portfolio Tracker -->
+  <url>
+       <loc>https://www.blockpit.top/crypto-portfolio-tracker.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+
+  <!-- Blockpit Tax Optimization -->
+  <url>
+       <loc>https://www.blockpit.top/crypto-tax-optimization.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+
+  <!-- Blockpit Pricing -->
+  <url>
+       <loc>https://www.blockpit.top/pricing.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+
+  <!-- Blockpit Integrations -->
+  <url>
+       <loc>https://www.blockpit.top/integrations.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.7000</priority>
+  </url>
+
+  <!-- Blockpit Blog -->
+  <url>
+       <loc>https://www.blockpit.top/blog.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.7000</priority>
+  </url>
+
+  <!-- Blockpit Login -->
+  <url>
+       <loc>https://www.blockpit.top/login.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+
+  <!-- Blockpit Register -->
+  <url>
+       <loc>https://www.blockpit.top/register.html</loc>
+       <lastmod>2026-10-15T12:00:00+00:00</lastmod>
+       <changefreq>monthly</changefreq>
+       <priority>0.6000</priority>
+  </url>
+
+</urlset>
